@@ -61,20 +61,79 @@
 
 - Primero tendrás que <a href="https://www.arduino.cc/en/software">Instalar Arduino IDE.</a>
 
-- Después tendrás que hacer es <a href="https://youtu.be/1lFYUD6plNw">Instalar los drivers y librerias</a> de la placa Digispark.
+- Después tendrás que <a href="https://youtu.be/1lFYUD6plNw">Instalar los drivers y librerias</a> de la placa Digispark.
 
 - Después eliges un Script Ducky que deseas usar, ya sea de este repositorio o de uno que estés haciendo. Una vez elegido dicho Script, nos dirigimos a <a href="https://duckify.huhn.me/">Duckify</a> para convertir ese **Ducky Script** en Código para **Attiny85.**
+  <br/>
+  <br/>
+
+<img align="center" height="100px" width="500px" alt="𝙶𝙸𝙵" src="https://github.com/Yextep/Attiny85-Ducky/assets/114537444/191594c9-c049-4670-a62a-bee8561e021d"/>
+
+<br/>
+<br/>
+
+Una vez que estemos en <a href="https://duckify.huhn.me/">Duckify</a> lo que haremos será insertar un script rubber ducky en la parte izquierda y convertirlo a código arduino, de tal forma que sea compatible con la Attiny85, para eso necesitamos entender un poco la página. Sin embargo, la página es demasiado intuitiva.
+
+  <br/>
+
+<img align="center" height="100px" width="500px" alt="𝙶𝙸𝙵" src="https://github.com/Yextep/Attiny85-Ducky/assets/114537444/2ed656b7-416c-4940-9949-e7e717419f3d"/>
+<br/>
+<br/>
+
+En la parte inferior izquierda de la página, tenemos primero al **Sistema Operativo** "System". Que es al que queremos ejecutar dicho **Script**, en este caso será para un **Windows**, por este motivo está seleccionado **Win**. Después tenemos la opción **"Keyboard"** que es el **lenguaje del teclado** que va ejecutar. **Esto es muy importante,** ya que si seleccionas en Keyboard el idioma **"ES-LA"** va cambiar la forma en que se realiza algunos simbolos del teclado al momento de ejecutar el **Attiny85** en el equipo de la victima. Yo recomiendo para el idioma español el Keyboard **ES**
+  <br/>
+  <br/>
+
+<img align="center" height="100px" width="500px" alt="𝙶𝙸𝙵" src="https://github.com/Yextep/Attiny85-Ducky/assets/114537444/0673fc28-6b75-47ca-a5b4-662bd2010a91"/>
+<br/>
+<br/>
+
+En la parte inferior derecha de la página, tenemos las otras tres opciones. Creo que es muy evidente la funcionalidad de las opciones, de primero tenemos la opción de **"Copiar"**, que nos va a servir para copiar el codigo convertido a arduino, de segundo tenemos la opción de descargar el archivo generado, y por último tenemos la opción de convertir, que su función sería convertir el código de Ducky-Script a código arduino, de forma que sea compatible con la placa Attiny85.
+  <br/>
+  <br/>
 
   </td>
   <td width="50%" valign="top">
 
 ## 𝐖𝐡𝐚𝐭 𝐰𝐢𝐥𝐥 𝐲𝐨𝐮 𝐧𝐞𝐞𝐝❔
 
-**<img alt="Feedback" src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg">**
+- Primero tendrás que <a href="https://www.arduino.cc/en/software">Instalar Arduino IDE.</a>
 
-“I think it’s very important to have a feedback loop, where you’re constantly thinking about what you’ve done and how you could be doing it better.”
-– Elon Musk
+- Después tendrás que <a href="https://youtu.be/1lFYUD6plNw">Instalar los drivers y librerias</a> de la placa Digispark.
 
+- Después eliges un Script Ducky que deseas usar, ya sea de este repositorio o de uno que estés haciendo. Una vez elegido dicho Script, nos dirigimos a <a href="https://duckify.huhn.me/">Duckify</a> para convertir ese **Ducky Script** en Código para **Attiny85.**
+  <br/>
+  <br/>
+
+<img align="center" height="100px" width="500px" alt="𝙶𝙸𝙵" src="https://github.com/Yextep/Attiny85-Ducky/assets/114537444/191594c9-c049-4670-a62a-bee8561e021d"/>
+
+<br/>
+<br/>
+Once we are in <a href="https://duckify.huhn.me/">Duckify</a> what we will do is insert a rubber ducky script on the left side and convert it to arduino code, in such a way that be compatible with Attiny85, for that we need to understand the page a bit. However, the page is too intuitive.
+
+  <br/>
+  <br/>
+
+<img align="center" height="100px" width="500px" alt="𝙶𝙸𝙵" src="https://github.com/Yextep/Attiny85-Ducky/assets/114537444/f3e9038b-8a3a-40db-91f9-250bef76c2bd"/>
+
+<br/>
+<br/>
+
+At the bottom left of the page, we first have the **Operating System** "System". Which is the one we want to execute said **Script**, in this case it will be for **Windows**, for this reason **Win** is selected. Then we have the option **"Keyboard"** which is the **keyboard language** that it will execute. **This is very important,** because if you select a language in Keyboard, in this case **"ES-LA"** "Español Latinoamerica" ​​will change the way some keyboard symbols are made when executing the **Attiny85** on the victim's computer. I recommend the Keyboard **ES** for the Spanish language.
+
+  <br/>
+  <br/>
+
+<img align="center" height="100px" width="500px" alt="𝙶𝙸𝙵" src="https://github.com/Yextep/Attiny85-Ducky/assets/114537444/eb024c0c-3161-47cd-9d5d-93eb58621cf4"/>
+
+<br/>
+<br/>
+
+At the bottom right of the page, we have the other three options. I think the functionality of the options is very evident, firstly we have the option to **"Copy"**, which will help us to copy the code converted to arduino, secondly we have the option to download the generated file, and Finally we have the option to convert, which its function would be to convert the Ducky-Script code to Arduino code, so that it is compatible with the Attiny85 board.
+
+  <br/>
+  <br/>
+  
   </td>
   </tr>
 </table>
