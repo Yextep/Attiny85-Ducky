@@ -8,6 +8,8 @@
 <br/>
 
 <img align="right" height="250" width="400" alt="GIF" src="https://github.com/Yextep/Attiny85-Ducky/assets/114537444/46713c5e-9fb9-4b33-8acf-6482bd07ae00"/>
+<br/>
+<br/>
 
 - 𝙴𝚓𝚎𝚌𝚞𝚝𝚎 𝚜𝚌𝚛𝚒𝚙𝚝𝚜 **𝚄𝚂𝙱 𝚁𝚞𝚋𝚋𝚎𝚛 𝙳𝚞𝚌𝚔𝚢** 𝚎𝚗 𝚞𝚗𝚊 **P𝚕𝚊𝚌𝚊 𝙳𝚒𝚐𝚒𝚜𝚙𝚊𝚛𝚔 S𝚞́𝚙𝚎𝚛 E𝚌𝚘𝚗𝚘́𝚖𝚒𝚌𝚊** 🔥
 - 𝚂𝚎 𝚑𝚊𝚌𝚎 𝚙𝚊𝚜𝚊𝚛 𝚙𝚘𝚛 𝚞𝚗 **𝚃𝚎𝚌𝚕𝚊𝚍𝚘** 𝚙𝚊𝚛𝚊 𝚎𝚕 **𝙾𝚛𝚍𝚎𝚗𝚊𝚍𝚘𝚛 𝙷𝚘𝚜𝚝** 🔥
@@ -122,6 +124,7 @@ At the bottom right of the page, we have the other three options. I think the fu
 
 <img align="left" height="250px" width="300px" alt="𝙶𝙸𝙵" src="https://github.com/Yextep/Attiny85-Ducky/assets/114537444/23a13d10-9806-434c-bb06-dede4121ab9d"/>
 <br/>
+<br/>
 
 𝐋𝐥𝐞𝐠𝐚𝐝𝐨𝐬 𝐡𝐚𝐬𝐭𝐚 𝐚𝐪𝐮𝐢́, 𝐥𝐨 𝐮́𝐧𝐢𝐜𝐨 𝐪𝐮𝐞 𝐭𝐞𝐧𝐞𝐦𝐨𝐬 𝐪𝐮𝐞 𝐡𝐚𝐜𝐞𝐫 𝐞𝐬 𝐞𝐦𝐩𝐞𝐳𝐚𝐫 𝐚 𝐜𝐨𝐧𝐯𝐞𝐫𝐭𝐢𝐫 𝐃𝐮𝐜𝐤𝐲-𝐒𝐜𝐫𝐢𝐩𝐭𝐬 𝐚 𝐧𝐮𝐞𝐬𝐭𝐫𝐨 𝐚𝐧𝐭𝐨𝐣𝐨, 𝐩𝐮𝐞𝐝𝐞𝐬 𝐛𝐮𝐬𝐜𝐚𝐫 𝐞𝐧 𝐞𝐬𝐭𝐞 𝐫𝐞𝐩𝐨𝐬𝐢𝐭𝐨𝐫𝐢𝐨 𝐬𝐢 𝐡𝐚𝐲 𝐚𝐥𝐠𝐮́𝐧 𝐭𝐢𝐩𝐨 𝐝𝐞 𝐜𝐚𝐫𝐠𝐚 𝐮́𝐭𝐢𝐥 𝐪𝐮𝐞 𝐭𝐞 𝐬𝐢𝐫𝐯𝐚 𝐲 𝐩𝐮𝐞𝐝𝐞𝐬 𝐦𝐨𝐝𝐢𝐟𝐢𝐜𝐚𝐫𝐥𝐨, 𝐝𝐞 𝐥𝐨 𝐜𝐨𝐧𝐭𝐫𝐚𝐫𝐢𝐨 𝐛𝐚𝐬𝐭𝐚 𝐜𝐨𝐧 𝐛𝐮𝐬𝐜𝐚𝐫 𝐚𝐥𝐠𝐮́𝐧 𝐭𝐢𝐩𝐨 𝐝𝐞 𝐃𝐮𝐜𝐤𝐲-𝐒𝐜𝐫𝐢𝐩𝐭 𝐞𝐧 𝐢𝐧𝐭𝐞𝐫𝐧𝐞𝐭 𝐲 𝐜𝐨𝐧𝐯𝐞𝐫𝐭𝐢𝐫𝐥𝐨 𝐚 𝐚𝐫𝐝𝐮𝐢𝐧𝐨 𝐜𝐨𝐦𝐨 𝐚 𝐜𝐨𝐧𝐭𝐢𝐧𝐮𝐚𝐜𝐢𝐨́𝐧.
 
@@ -158,6 +161,7 @@ At the bottom right of the page, we have the other three options. I think the fu
 
 <img align="right" height="300px" width="500px" alt="𝙶𝙸𝙵" src="https://github.com/Yextep/Attiny85-Ducky/assets/114537444/d6eb8cdd-c511-4621-a116-a08471183ea5"/>
 <br/>
+<br/>
 
 𝐀𝐡𝐨𝐫𝐚 𝐬𝐢𝐦𝐩𝐥𝐞𝐦𝐞𝐧𝐭𝐞 𝐝𝐞𝐛𝐞𝐦𝐨𝐬 **𝐜𝐨𝐩𝐢𝐚𝐫** 𝐞𝐥 𝐜𝐨́𝐝𝐢𝐠𝐨, 𝐨 𝐩𝐮𝐞𝐝𝐞𝐬 **𝐝𝐞𝐬𝐜𝐚𝐫𝐠𝐚𝐫𝐥𝐨** 𝐝𝐢𝐫𝐞𝐜𝐭𝐚𝐦𝐞𝐧𝐭𝐞 𝐝𝐞 𝐥𝐚 𝐩𝐚́𝐠𝐢𝐧𝐚. 𝐋𝐮𝐞𝐠𝐨 𝐝𝐞 𝐠𝐮𝐚𝐫𝐝𝐚𝐫 𝐨 𝐜𝐨𝐩𝐢𝐚𝐫 𝐞𝐥 𝐚𝐫𝐜𝐡𝐢𝐯𝐨 𝐧𝐨𝐬 𝐝𝐢𝐫𝐢𝐠𝐢𝐦𝐨𝐬 𝐚 **𝐀𝐫𝐝𝐮𝐢𝐧𝐨 𝐈𝐃𝐄** 𝐝𝐨𝐧𝐝𝐞 𝐯𝐚𝐦𝐨𝐬 𝐚 𝐯𝐞𝐫𝐢𝐟𝐢𝐜𝐚𝐫 𝐲 𝐞𝐱𝐩𝐨𝐫𝐭𝐚𝐫𝐥𝐨 𝐚 𝐧𝐮𝐞𝐬𝐭𝐫𝐚 𝐩𝐥𝐚𝐜𝐚 **𝐀𝐭𝐭𝐢𝐧𝐲𝟖𝟓**
 
@@ -173,6 +177,8 @@ At the bottom right of the page, we have the other three options. I think the fu
 <br/>
 
 <img align="left" height="300px" width="350px" alt="𝙶𝙸𝙵" src="https://github.com/ArisGuimera/ArisGuimera/assets/114537444/f93eb411-918e-4fc4-9bda-0c3c98a2818d"/>
+<br/>
+<br/>
 
 **𝚈𝚊 𝚌𝚘𝚗 𝚝𝚘𝚍𝚘 𝚎𝚜𝚝𝚘 𝚑𝚎𝚌𝚑𝚘, 𝚜𝚘𝚕𝚘 𝚚𝚞𝚎𝚍𝚊 **𝙴𝚓𝚎𝚌𝚞𝚝𝚊𝚛 𝚕𝚊 𝙲𝚊𝚛𝚐𝚊 𝚄́𝚝𝚒𝚕** 𝚎𝚗 𝚊𝚕𝚐𝚞́𝚗 𝚍𝚒𝚜𝚙𝚘𝚜𝚒𝚝𝚒𝚟𝚘. 𝙴𝚜𝚝𝚎 𝚛𝚎𝚙𝚘𝚜𝚒𝚝𝚘𝚛𝚒𝚘 𝚜𝚎 𝚑𝚒𝚣𝚘 𝚌𝚘𝚗 𝚏𝚒𝚗𝚎𝚜 𝚎𝚍𝚞𝚌𝚊𝚝𝚒𝚟𝚘𝚜, 𝚗𝚘 𝚖𝚎 𝚑𝚊𝚐𝚘 𝚛𝚎𝚜𝚙𝚘𝚗𝚜𝚊𝚋𝚕𝚎 𝚍𝚎𝚕 𝚖𝚊𝚕 𝚞𝚜𝚘 𝚚𝚞𝚎 𝚑𝚊𝚐𝚊𝚗. 𝙰𝚝𝚊𝚌𝚊𝚛/𝚅𝚞𝚕𝚗𝚎𝚛𝚊𝚛/𝙲𝚘𝚖𝚙𝚛𝚘𝚖𝚎𝚝𝚎𝚛/𝙳𝚊𝚗̃𝚊𝚛 𝚘 𝙴𝚡𝚙𝚕𝚘𝚝𝚊𝚛 𝚍𝚒𝚜𝚙𝚘𝚜𝚒𝚝𝚒𝚟𝚘𝚜 𝚜𝚒𝚗 𝚌𝚘𝚗𝚜𝚎𝚗𝚝𝚒𝚖𝚒𝚎𝚗𝚝𝚘 𝚘 𝚍𝚎 𝚏𝚘𝚛𝚖𝚊 𝚗𝚘 𝚊𝚞𝚝𝚘𝚛𝚒𝚣𝚊𝚍𝚊 𝚎𝚜 𝚞𝚗 𝚊𝚌𝚝𝚘 𝚍𝚎𝚕𝚒𝚌𝚝𝚒𝚟𝚘 𝚎 𝚒𝚕𝚎𝚐𝚊𝚕.**
 
