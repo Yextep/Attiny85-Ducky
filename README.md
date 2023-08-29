@@ -16,24 +16,6 @@
 - 𝙿𝚘𝚜𝚎𝚜 𝚊𝚜 𝚊 **𝙺𝚎𝚢𝚋𝚘𝚊𝚛𝚍** 𝚏𝚘𝚛 𝚝𝚑𝚎 **𝙷𝚘𝚜𝚝 𝙲𝚘𝚖𝚙𝚞𝚝𝚎𝚛** ⚡
 - 𝙰𝚕𝚕𝚘𝚠𝚜 𝚝𝚑𝚎 𝚞𝚜𝚎 𝚘𝚏 **𝙺𝚎𝚢𝚜𝚝𝚛𝚘𝚔𝚎𝚜** 𝚊𝚝 **𝙷𝚒𝚐𝚑 𝚂𝚙𝚎𝚎𝚍𝚜** ⚡
 
-<br/>
-<br/>
-
-
-<p align="center">
-  <img src="https://gpvc.arturio.dev/JayantGoel001" alt="𝚙𝚛𝚘𝚏𝚒𝚕𝚎 𝚟𝚒𝚎𝚠𝚜"> •  
-<!--   <img alt = "profile views" src="https://komarev.com/ghpvc/?username=JayantGoel001&style=flat&color=brightgreen"> •    -->
-  <a href="https://user-badge.committers.top/india_private/JayantGoel001"><img src="https://user-badge.committers.top/india_private/JayantGoel001.svg"></a> •
-  <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/JayantGoel001?label=Followers&style=social"> •
-  <img src="https://img.shields.io/github/stars/JayantGoel001?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜"> •
-  <a href="https://github.com/sponsors/JayantGoel001"><img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86"/></a>
-</p>
-<!-- <p align="center">
-  <code>
-    <img src="https://img.shields.io/badge/dynamic/json?label=Gitwar%20Profile%20Score&style=for-the-badge&color=ee6f57&logo=github&logoColor=white&query=score&url=http%3A%2F%2Fgitwar-jayant.herokuapp.com%2Fapi%2FJayantGoel001" alt="𝙶𝚒𝚝𝚑𝚞𝚋 𝙿𝚛𝚘𝚏𝚒𝚕𝚎 𝚂𝚌𝚘𝚛𝚎">
-  </code>
-</p> -->
-
 #
 
 <p align="center">
@@ -97,11 +79,11 @@ En la parte inferior derecha de la página, tenemos las otras tres opciones. Cre
 
 ## 𝐖𝐡𝐚𝐭 𝐰𝐢𝐥𝐥 𝐲𝐨𝐮 𝐧𝐞𝐞𝐝❔
 
-- Primero tendrás que <a href="https://www.arduino.cc/en/software">Instalar Arduino IDE.</a>
+- First you will have to <a href="https://www.arduino.cc/en/software">Install Arduino IDE.</a>
 
-- Después tendrás que <a href="https://youtu.be/1lFYUD6plNw">Instalar los drivers y librerias</a> de la placa Digispark.
+- Then you will have to <a href="https://youtu.be/fHbKm1RxUNM">Install the drivers and libraries</a> of the Digispark board.
 
-- Después eliges un Script Ducky que deseas usar, ya sea de este repositorio o de uno que estés haciendo. Una vez elegido dicho Script, nos dirigimos a <a href="https://duckify.huhn.me/">Duckify</a> para convertir ese **Ducky Script** en Código para **Attiny85.**
+- Then you choose a Ducky Script you want to use, either from this repository or from one you're making. Once said Script is chosen, we go to <a href="https://duckify.huhn.me/">Duckify</a> to convert that **Ducky Script** into Code for **Attiny85.**
   <br/>
   <br/>
 
@@ -138,5 +120,49 @@ At the bottom right of the page, we have the other three options. I think the fu
   </tr>
 </table>
 
-<img align="left" height="300px" width="300px" alt="𝙶𝙸𝙵" src="https://camo.githubusercontent.com/3b7c592ede97b6138ffd4b1cc1541c2f3b11fd39/687474703a2f2f33312e6d656469612e74756d626c722e636f6d2f31376665613932306666333665663466356238373764353231366137616164392f74756d626c725f6d6f39786a65387a5a34317163626975666f315f313238302e676966"/>
+<img align="left" height="250px" width="300px" alt="𝙶𝙸𝙵" src="https://github.com/Yextep/Attiny85-Ducky/assets/114537444/23a13d10-9806-434c-bb06-dede4121ab9d"/>
 <br/>
+
+𝐋𝐥𝐞𝐠𝐚𝐝𝐨𝐬 𝐡𝐚𝐬𝐭𝐚 𝐚𝐪𝐮𝐢́, 𝐥𝐨 𝐮́𝐧𝐢𝐜𝐨 𝐪𝐮𝐞 𝐭𝐞𝐧𝐞𝐦𝐨𝐬 𝐪𝐮𝐞 𝐡𝐚𝐜𝐞𝐫 𝐞𝐬 𝐞𝐦𝐩𝐞𝐳𝐚𝐫 𝐚 𝐜𝐨𝐧𝐯𝐞𝐫𝐭𝐢𝐫 𝐃𝐮𝐜𝐤𝐲-𝐒𝐜𝐫𝐢𝐩𝐭𝐬 𝐚 𝐧𝐮𝐞𝐬𝐭𝐫𝐨 𝐚𝐧𝐭𝐨𝐣𝐨, 𝐩𝐮𝐞𝐝𝐞𝐬 𝐛𝐮𝐬𝐜𝐚𝐫 𝐞𝐧 𝐞𝐬𝐭𝐞 𝐫𝐞𝐩𝐨𝐬𝐢𝐭𝐨𝐫𝐢𝐨 𝐬𝐢 𝐡𝐚𝐲 𝐚𝐥𝐠𝐮́𝐧 𝐭𝐢𝐩𝐨 𝐝𝐞 𝐜𝐚𝐫𝐠𝐚 𝐮́𝐭𝐢𝐥 𝐪𝐮𝐞 𝐭𝐞 𝐬𝐢𝐫𝐯𝐚 𝐲 𝐩𝐮𝐞𝐝𝐞𝐬 𝐦𝐨𝐝𝐢𝐟𝐢𝐜𝐚𝐫𝐥𝐨, 𝐝𝐞 𝐥𝐨 𝐜𝐨𝐧𝐭𝐫𝐚𝐫𝐢𝐨 𝐛𝐚𝐬𝐭𝐚 𝐜𝐨𝐧 𝐛𝐮𝐬𝐜𝐚𝐫 𝐚𝐥𝐠𝐮́𝐧 𝐭𝐢𝐩𝐨 𝐝𝐞 𝐃𝐮𝐜𝐤𝐲-𝐒𝐜𝐫𝐢𝐩𝐭 𝐞𝐧 𝐢𝐧𝐭𝐞𝐫𝐧𝐞𝐭 𝐲 𝐜𝐨𝐧𝐯𝐞𝐫𝐭𝐢𝐫𝐥𝐨 𝐚 𝐚𝐫𝐝𝐮𝐢𝐧𝐨 𝐜𝐨𝐦𝐨 𝐚 𝐜𝐨𝐧𝐭𝐢𝐧𝐮𝐚𝐜𝐢𝐨́𝐧.
+
+𝐀𝐭 𝐭𝐡𝐢𝐬 𝐩𝐨𝐢𝐧𝐭, 𝐚𝐥𝐥 𝐰𝐞 𝐡𝐚𝐯𝐞 𝐭𝐨 𝐝𝐨 𝐢𝐬 𝐬𝐭𝐚𝐫𝐭 𝐜𝐨𝐧𝐯𝐞𝐫𝐭𝐢𝐧𝐠 𝐃𝐮𝐜𝐤𝐲-𝐒𝐜𝐫𝐢𝐩𝐭𝐬 𝐚𝐬 𝐰𝐞 𝐩𝐥𝐞𝐚𝐬𝐞, 𝐲𝐨𝐮 𝐜𝐚𝐧 𝐬𝐞𝐚𝐫𝐜𝐡 𝐭𝐡𝐢𝐬 𝐫𝐞𝐩𝐨𝐬𝐢𝐭𝐨𝐫𝐲 𝐢𝐟 𝐭𝐡𝐞𝐫𝐞 𝐢𝐬 𝐚𝐧𝐲 𝐤𝐢𝐧𝐝 𝐨𝐟 𝐩𝐚𝐲𝐥𝐨𝐚𝐝 𝐭𝐡𝐚𝐭 𝐰𝐨𝐫𝐤𝐬 𝐟𝐨𝐫 𝐲𝐨𝐮 𝐚𝐧𝐝 𝐲𝐨𝐮 𝐜𝐚𝐧 𝐦𝐨𝐝𝐢𝐟𝐲 𝐢𝐭, 𝐨𝐭𝐡𝐞𝐫𝐰𝐢𝐬𝐞 𝐣𝐮𝐬𝐭 𝐥𝐨𝐨𝐤 𝐟𝐨𝐫 𝐬𝐨𝐦𝐞 𝐤𝐢𝐧𝐝 𝐨𝐟 𝐃𝐮𝐜𝐤𝐲 -𝐒𝐜𝐫𝐢𝐩𝐭 𝐨𝐧 𝐭𝐡𝐞 𝐢𝐧𝐭𝐞𝐫𝐧𝐞𝐭 𝐚𝐧𝐝 𝐜𝐨𝐧𝐯𝐞𝐫𝐭 𝐢𝐭 𝐭𝐨 𝐚𝐫𝐝𝐮𝐢𝐧𝐨 𝐥𝐢𝐤𝐞 𝐛𝐞𝐥𝐨𝐰.
+
+<br/>
+<br/>
+
+
+<img align="center" height="500" width="1000" alt="GIF" src="https://github.com/Yextep/Attiny85-Ducky/assets/114537444/6efc88e3-e107-4962-a8a9-e22d91d683ec"/>
+
+<br/>
+<br/>
+
+<h1 align="center">
+
+  𝐀𝐡𝐨𝐫𝐚 𝐥𝐨 𝐂𝐨𝐧𝐯𝐞𝐫𝐭𝐢𝐦𝐨𝐬 /// 𝐍𝐨𝐰 𝐖𝐞 𝐂𝐨𝐧𝐯𝐞𝐫𝐭 𝐈𝐭
+
+</h1>
+
+<br/>
+
+
+<img align="center" height="500" width="1000" alt="GIF" src="https://github.com/Yextep/Attiny85-Ducky/assets/114537444/692a64e0-e259-42a7-b4b3-60d55aceffee"/>
+
+<br/>
+<br/>
+
+<h1 align="center">
+
+  𝐀𝐛𝐫𝐢𝐦𝐨𝐬 𝐀𝐫𝐝𝐮𝐢𝐧𝐨 𝐈𝐃𝐄 /// 𝐖𝐞 𝐨𝐩𝐞𝐧 𝐀𝐫𝐝𝐮𝐢𝐧𝐨 𝐈𝐃𝐄
+
+</h1>
+
+<img align="right" height="300px" width="500px" alt="𝙶𝙸𝙵" src="https://github.com/Yextep/Attiny85-Ducky/assets/114537444/d6eb8cdd-c511-4621-a116-a08471183ea5"/>
+<br/>
+
+𝐀𝐡𝐨𝐫𝐚 𝐬𝐢𝐦𝐩𝐥𝐞𝐦𝐞𝐧𝐭𝐞 𝐝𝐞𝐛𝐞𝐦𝐨𝐬 **𝐜𝐨𝐩𝐢𝐚𝐫** 𝐞𝐥 𝐜𝐨́𝐝𝐢𝐠𝐨, 𝐨 𝐩𝐮𝐞𝐝𝐞𝐬 **𝐝𝐞𝐬𝐜𝐚𝐫𝐠𝐚𝐫𝐥𝐨** 𝐝𝐢𝐫𝐞𝐜𝐭𝐚𝐦𝐞𝐧𝐭𝐞 𝐝𝐞 𝐥𝐚 𝐩𝐚́𝐠𝐢𝐧𝐚. 𝐋𝐮𝐞𝐠𝐨 𝐝𝐞 𝐠𝐮𝐚𝐫𝐝𝐚𝐫 𝐨 𝐜𝐨𝐩𝐢𝐚𝐫 𝐞𝐥 𝐚𝐫𝐜𝐡𝐢𝐯𝐨 𝐧𝐨𝐬 𝐝𝐢𝐫𝐢𝐠𝐢𝐦𝐨𝐬 𝐚 **𝐀𝐫𝐝𝐮𝐢𝐧𝐨 𝐈𝐃𝐄** 𝐝𝐨𝐧𝐝𝐞 𝐯𝐚𝐦𝐨𝐬 𝐚 𝐯𝐞𝐫𝐢𝐟𝐢𝐜𝐚𝐫 𝐲 𝐞𝐱𝐩𝐨𝐫𝐭𝐚𝐫𝐥𝐨 𝐚 𝐧𝐮𝐞𝐬𝐭𝐫𝐚 𝐩𝐥𝐚𝐜𝐚 **𝐀𝐭𝐭𝐢𝐧𝐲𝟖𝟓**
+
+𝐍𝐨𝐰 𝐰𝐞 𝐣𝐮𝐬𝐭 𝐡𝐚𝐯𝐞 𝐭𝐨 **𝐜𝐨𝐩𝐲** 𝐭𝐡𝐞 𝐜𝐨𝐝𝐞, 𝐨𝐫 𝐲𝐨𝐮 𝐜𝐚𝐧 **𝐝𝐨𝐰𝐧𝐥𝐨𝐚𝐝** 𝐢𝐭 𝐝𝐢𝐫𝐞𝐜𝐭𝐥𝐲 𝐟𝐫𝐨𝐦 𝐭𝐡𝐞 𝐩𝐚𝐠𝐞. 𝐀𝐟𝐭𝐞𝐫 𝐬𝐚𝐯𝐢𝐧𝐠 𝐨𝐫 𝐜𝐨𝐩𝐲𝐢𝐧𝐠 𝐭𝐡𝐞 𝐟𝐢𝐥𝐞 𝐰𝐞 𝐠𝐨 𝐭𝐨 **𝐀𝐫𝐝𝐮𝐢𝐧𝐨 𝐈𝐃𝐄** 𝐰𝐡𝐞𝐫𝐞 𝐰𝐞 𝐚𝐫𝐞 𝐠𝐨𝐢𝐧𝐠 𝐭𝐨 𝐯𝐞𝐫𝐢𝐟𝐲 𝐚𝐧𝐝 𝐞𝐱𝐩𝐨𝐫𝐭 𝐢𝐭 𝐭𝐨 𝐨𝐮𝐫 𝐛𝐨𝐚𝐫𝐝 **𝐀𝐭𝐭𝐢𝐧𝐲𝟖𝟓**
+
+<br/>
+<br/>
+
